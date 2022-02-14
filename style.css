@@ -1,0 +1,26 @@
+body
+{
+    background-size: cover;
+}
+
+#heading
+{
+    color: white;
+    text-shadow: grey 1px;
+    font-family: 'Quintessential', cursive;
+    letter-spacing: 2px;
+    font-size: 40px;
+}
+
+#snapshot
+{
+    background-color: rgb(155, 154, 154);
+    border-color: honeydew;
+    font-size: 25px;
+    color: white;
+}
+
+canvas
+{
+    border-color: white;
+}
